@@ -14,7 +14,7 @@
 
 将需求说明、会议纪要、原型反馈和既有 PRD 整理为一份可实现、可验收的主 PRD；信息不足时，可通过交互式问卷集中确认。
 
-### 📝 [原型标注（Prototype Annotation）](https://github.com/lin96008-maxlin/prototype-annotation)
+### 📝 [原型html标注及编辑](https://github.com/lin96008-maxlin/prototype-annotation)
 
 将业务标注和原型说明写入单个 HTML 原型，支持浮动标注、三栏审阅，以及 localhost 本地可视化编辑和写回。
 

@@ -10,7 +10,7 @@
 
 用于集中管理和分享 HTML、AI 生成页面及 Axure 原型，支持在线预览、版本更新、链接分享、访问控制和团队协作。
 
-### 📋 [交互式 PRD 需求文档撰写](https://github.com/lin96008-maxlin/prd-outputs-interactive)
+### 📋 [问卷式 PRD 需求文档撰写](https://github.com/lin96008-maxlin/prd-outputs-interactive)
 
 将需求说明、会议纪要、原型反馈和既有 PRD 整理为一份可实现、可验收的主 PRD；信息不足时，可通过交互式问卷集中确认。
 

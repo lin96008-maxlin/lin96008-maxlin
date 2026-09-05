@@ -6,17 +6,21 @@
 
 ## 🧰 我做的小工具
 
-### 🌐 [原型 HTML 托管平台](https://github.com/lin96008-maxlin/prototype-html-hosting-platform)
-
-用于集中管理和分享 HTML、AI 生成页面及 Axure 原型，支持在线预览、版本更新、链接分享、访问控制和团队协作。
-
-### 📋 [问卷式 PRD 需求文档撰写](https://github.com/lin96008-maxlin/prd-outputs-interactive)
+### 📋 [问卷式 PRD 需求文档撰写插件](https://github.com/lin96008-maxlin/prd-outputs-interactive)
 
 将需求说明、会议纪要、原型反馈和既有 PRD 整理为一份可实现、可验收的主 PRD；信息不足时，可通过交互式问卷集中确认。
 
-### 📝 [原型 HTML 标注及编辑](https://github.com/lin96008-maxlin/prototype-annotation)
+### 📐 [高保真原型 Html 设计 Skill ](https://github.com/lin96008-maxlin/high-fidelity-prototype-ant-design)
+
+把产品需求稳定转换成结构完整、视觉统一、交互可验证的单 HTML 高保真原型。
+
+### 📝 [原型 HTML 标注及编辑 Skill ](https://github.com/lin96008-maxlin/prototype-annotation)
 
 将业务标注和原型说明写入单个 HTML 原型，支持浮动标注、三栏审阅，以及 localhost 本地可视化编辑和写回。
+
+### 🌐 [原型 HTML 托管平台](https://github.com/lin96008-maxlin/prototype-html-hosting-platform)
+
+用于集中管理和分享 HTML、AI 生成页面及 Axure 原型，支持在线预览、版本更新、链接分享、访问控制和团队协作。
 
 后续做出其他有实际用途的小工具，也会继续放在这里。
 

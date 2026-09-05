@@ -14,7 +14,7 @@
 
 把产品需求稳定转换成结构完整、视觉统一、交互可验证的单 HTML 高保真原型。
 
-### 📐 [原型 Html 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
+### ✏️ [原型 Html 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
 
 可在浏览器中直接修改已有单 HTML 原型的文字、表格、样式、位置和尺寸，并保留原有页面与交互。
 

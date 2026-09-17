@@ -24,7 +24,7 @@
 
 ### 🗺️ [原型 HTML 画布 Skill](https://github.com/lin96008-maxlin/prototype-canvas)
 
-把已有单 HTML 原型变成一张可导航的页面地图：思维导图看清页面层级与关联，快照模式看每个页面真实长什么样，双击节点直接进入原型对应页面。
+把已有单 HTML 原型变成一张可导航的页面地图：思维导图看清页面层级与关联，快照模式看每个页面真实长什么样。
 
 ### 🌐 [原型 HTML 托管平台](https://github.com/lin96008-maxlin/prototype-html-hosting-platform)
 

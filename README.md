@@ -14,27 +14,26 @@
 
 把产品需求稳定转换成结构完整、视觉统一、交互可验证的单 HTML 高保真原型。
 
-### ✏️ [原型 Html 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
-
-可在浏览器中直接修改已有单 HTML 原型的文字、表格、样式、位置和尺寸，并保留原有页面与交互。
-
-### 📝 [原型 HTML 标注及编辑 Skill ](https://github.com/lin96008-maxlin/prototype-annotation)
+### 📝 [原型 HTML 标注 Skill ](https://github.com/lin96008-maxlin/prototype-annotation)
 
 将业务标注和原型说明写入单个 HTML 原型，支持浮动标注、三栏审阅，以及 localhost 本地可视化编辑和写回。
 
-### 🌐 [原型 HTML 托管平台](https://github.com/lin96008-maxlin/prototype-html-hosting-platform)
+### ✏️ [原型 Html 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
 
-用于集中管理和分享 HTML、AI 生成页面及 Axure 原型，支持在线预览、版本更新、链接分享、访问控制和团队协作。
+可在浏览器中直接修改已有单 HTML 原型的文字、表格、样式、位置和尺寸，并保留原有页面与交互。
 
 ### 🗺️ [原型 HTML 画布 Skill](https://github.com/lin96008-maxlin/prototype-canvas)
 
 把已有单 HTML 原型变成一张可导航的页面地图：思维导图看清页面层级与关联，快照模式看每个页面真实长什么样，双击节点直接进入原型对应页面。
 
+### 🌐 [原型 HTML 托管平台](https://github.com/lin96008-maxlin/prototype-html-hosting-platform)
+
+用于集中管理和分享 HTML、AI 生成页面及 Axure 原型，支持在线预览、版本更新、链接分享、访问控制和团队协作。
+
 后续做出其他有实际用途的小工具，也会继续放在这里。
 
 ## 📮 联系我
 
-- 邮箱：[137014296@qq.com](mailto:137014296@qq.com)
 - 小红书：Lin137014
 
 有使用感受、问题或新想法，欢迎来聊聊。

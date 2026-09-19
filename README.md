@@ -10,7 +10,7 @@
 
 将需求说明、会议纪要、原型反馈和既有 PRD 整理为一份可实现、可验收的主 PRD；信息不足时，可通过交互式问卷集中确认。
 
-### 📐 [高保真原型 Html 设计 Skill ](https://github.com/lin96008-maxlin/high-fidelity-prototype-ant-design)
+### 📐 [原型 HTML 设计 Skill ](https://github.com/lin96008-maxlin/high-fidelity-prototype-ant-design)
 
 把产品需求稳定转换成结构完整、视觉统一、交互可验证的单 HTML 高保真原型。
 
@@ -18,7 +18,7 @@
 
 将业务标注和原型说明写入单个 HTML 原型，支持浮动标注、三栏审阅，以及 localhost 本地可视化编辑和写回。
 
-### ✏️ [原型 Html 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
+### ✏️ [原型 HTML 编辑器 Skill ](https://github.com/lin96008-maxlin/prototype-html-editor)
 
 可在浏览器中直接修改已有单 HTML 原型的文字、表格、样式、位置和尺寸，并保留原有页面与交互。
 

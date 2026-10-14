@@ -4,6 +4,10 @@
 
 这里会陆续放一些我自己也在用的小项目。它们不一定宏大，但希望足够实用，也能顺手帮你省点时间。✨
 
+# 个人主页 🐷
+
+提供一系列免费课程、软件开发领域术语，持续更新中。[主页：PM-Vibe](https://www.pm-vibe.com/zh/)
+
 ## 🧰 我做的小工具
 
 ### 📋 [问卷式 PRD 需求文档撰写插件](https://github.com/lin96008-maxlin/prd-outputs-interactive)
